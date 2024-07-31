@@ -1,9 +1,9 @@
 ## Hi there 👋
-<p align="left">I am Riccardo, a Computer engeneering student from Livorno, Italy. Currenty studying at the [University of Pisa](https://unipi.it) and honorous student at [Sant'Anna School of Advanced Studies](https://santannapisa.it/)</p>
+<p align="left">I am Riccardo, a Computer engeneering student from Livorno, Italy. Currenty studying at the <a href="https://unipit.it">University of Pisa</a> and honorous student at <a href="https://santannapisa.it">Sant'Anna School of Advanced Studies</a></p>
 
 ###
 
-<h5 align="left">Technologies and languages i use</h5>
+<h4 align="left">Technologies and languages i use</h4>
 
 ###
 
