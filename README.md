@@ -1,11 +1,9 @@
 ## Hi there 👋
-<p align="left">I am Riccardo, a Computer engeneering student from Livorno, Italy. Currenty studying at the <a href="https://unipit.it">University of Pisa</a> and honorous student at <a href="https://santannapisa.it">Sant'Anna School of Advanced Studies</a></p>
+<p align="left">I am Riccardo, a Computer engeneering student from Livorno, Italy. Currenty studying at the <a href="https://unipi.it">University of Pisa</a> and honorous student at <a href="https://santannapisa.it">Sant'Anna School of Advanced Studies</a></p>
 
-###
+<br>
 
 <h4 align="left">Technologies and languages i use</h4>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
@@ -37,11 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+<br>
 
 <h5 align="left">You can contact me via the following links</h5>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/riccardo-ciucci-03bba8309/" target="_blank">
@@ -52,12 +48,12 @@
   </a>
 </div>
 
-###
+<br>
 
 <h5 align="left">Just a really cool snake</h5>
 
-###
-
 <img src="https://raw.githubusercontent.com/Richie314/Richie314/output/snake.svg" alt="Snake animation" />
 
-###
+<br>
+
+[![Richie314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richie314)](https://github.com/anuraghazra/github-readme-stats)
