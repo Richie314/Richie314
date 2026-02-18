@@ -58,4 +58,4 @@ and honorous student at [Sant'Anna School of Advanced Studies](https://santannap
 
 <br>
 
-[![GitHub stats](./profile-stats.svg "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](./profile/stats.svg "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
