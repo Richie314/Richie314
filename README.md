@@ -1,9 +1,11 @@
 ## Hi there 👋
-<p align="left">I am Riccardo, a Computer engineering student from Livorno, Italy. Currenty studying at the <a href="https://unipi.it">University of Pisa</a> and honorous student at <a href="https://santannapisa.it">Sant'Anna School of Advanced Studies</a></p>
+I am Riccardo, a Computer engineering student from Livorno, Italy.
+Currenty studying at the [University of Pisa](https://unipi.it)
+and honorous student at [Sant'Anna School of Advanced Studies](https://santannapisa.it).
 
 <br>
 
-<h4 align="left">Technologies and languages i use</h4>
+#### Technologies and languages i use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
@@ -37,7 +39,7 @@
 
 <br>
 
-<h5 align="left">You can contact me via the following links</h5>
+##### You can contact me via the following links
 
 <div align="left">
   <a href="https://www.linkedin.com/in/riccardo-ciucci-03bba8309/" target="_blank">
@@ -56,4 +58,4 @@
 
 <br>
 
-[![Richie314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richie314)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](./profile-stats.svg "My GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
