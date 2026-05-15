@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I am Riccardo, a Computer engineering student from Livorno, Italy.<br>Currenty studying at the [University of Pisa](https://unipi.it)<br>and honorous student at [Sant'Anna School of Advanced Studies](https://santannapisa.it).</p>
+I am Riccardo, a Computer engineering student from Livorno, Italy.
+Currenty studying at the [University of Pisa](https://unipi.it)
+and honorous student at [Sant'Anna School of Advanced Studies](https://santannapisa.it).
 
 ###
 
