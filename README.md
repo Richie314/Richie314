@@ -72,7 +72,10 @@ and honorous student at [Sant'Anna School of Advanced Studies](https://santannap
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Richie314&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!--
   <img src="https://raw.githubusercontent.com/Richie314/Richie314/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  -->
+  <img src="https://github-profile-repo.vercel.app/?username=Richie314" height="150" alt="trophy graph"  />
 </div>
 
 ###
