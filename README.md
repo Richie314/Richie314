@@ -75,7 +75,7 @@ and honorous student at [Sant'Anna School of Advanced Studies](https://santannap
   <!--
   <img src="https://raw.githubusercontent.com/Richie314/Richie314/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   -->
-  <img src="https://github-profile-repo.vercel.app/?username=Richie314" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-repo.vercel.app/?username=Richie314&theme=dracula&row=1&column=8" height="150" alt="trophy graph"  />
 </div>
 
 ###
